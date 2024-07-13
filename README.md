@@ -1,7 +1,11 @@
 #Expense Tracker
-A simple and efficient Expense Tracker application built using React JS. This application allows users to add, view, and manage their expenses. It provides functionalities to sort expenses by price, category, and list order, with the additional capability to clear all sorts. The total expenses are dynamically calculated and displayed at the bottom of the table.
+
+    A simple and efficient Expense Tracker application built using React JS. This application allows users to add, view, and manage their expenses. 
+    It provides functionalities to sort expenses by price, category, and list order, with the additional capability to clear all sorts. 
+    The total expenses are dynamically calculated and displayed at the bottom of the table.
 
 #Features
+
     1. Add Expenses: Add new expenses with details like amount, category, and description.
     2. Sort Expenses:
         * Sort by price (ascending and descending).
@@ -13,6 +17,7 @@ A simple and efficient Expense Tracker application built using React JS. This ap
 
 
 #Usage
+
     1. Add Expense: Fill in the expense details and click 'Add Expense' to add it to the list.
     2. Sort Expenses: Use the sorting options to arrange your expenses as needed.
     3. Clear Sort: Click the 'Clear Sort' button to remove all applied sorts and return to the default view.
