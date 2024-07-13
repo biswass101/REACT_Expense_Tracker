@@ -13,6 +13,7 @@
         * Sort by list order.
     3. Clear Sort: Clear all applied sorts and revert to the original list.
     4. Total Expenses: The last row of the table displays the total expenses amount dynamically.
+    5. Edit and Delete added expense from the table: on right click of mouse there are two options - edit and delete
 
 
 
